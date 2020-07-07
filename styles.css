@@ -1,0 +1,15 @@
+body{background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fgraphicmamapins%2Fwebsite-backgrounds%2F&psig=AOvVaw0rDr95nIzyZY0nRgrpOo2K&ust=1594204793348000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiD_un5uuoCFQAAAAAdAAAAABAD");
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: green}
+
+
+hr{ border-style: none;
+  /*this is a single line comment*/
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;}
+
+h1{color: #66BFBF;}
+h3{color: #66BFBF;}
